@@ -24,6 +24,7 @@ int main()
     std::cout << "Atlag szamitasa: " << std::endl;
     std::cout << "Atlag: " << atlag << std::endl;
 
+    std::cout << "5.feladat kész" << std::endl;
 
     return 0;
 }
